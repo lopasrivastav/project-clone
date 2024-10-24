@@ -1,2 +1,4 @@
 # project-clone
-use html and css to make amazon clones
+projects-cones
+<br>
+author-lopa srivastav
